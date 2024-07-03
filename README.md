@@ -1,1 +1,12 @@
-# Python-Gas-Electricity-company-Analysis-
+**Problem:**
+**PowerCo** is a major gas and electricity utility that supplies to small and medium sized enterprises.
+
+The energy market has had a lot of change in recent years and there are more options than ever for customers to choose from. PowerCo are concerned about their customers leaving for better offers from other energy providers. This is becoming a big issue for PowerCo and they have engaged me as a Data Analyst to help diagnose the reason why their customers are churning.
+
+Step taken to solve the problem:
+
+1.**Business understanding & problem framing**
+2. **Exploratory data analysis & data cleaning**
+3. **Feature engineering**
+4. **Modeling and evaluation**
+5. **Insights & Recommendations**
