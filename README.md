@@ -4,12 +4,12 @@ The energy market has had a lot of change in recent years and there are more opt
 
 **About Dataset**
 
-Client data
+
 
 ![image](https://github.com/user-attachments/assets/cd2b4fa5-5530-4fe7-930c-1d4b600bb01c)
 
 
 
-Price Data
+
 
 ![image](https://github.com/user-attachments/assets/a4d2f80e-f8a7-4d7c-b8fd-05b595fb59e0)
